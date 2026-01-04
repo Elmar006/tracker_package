@@ -1,4 +1,4 @@
-module github.com/Elmar006/tracker-package
+module github.com/Elmar006/tracker_package
 go 1.22.0
 
 require (
