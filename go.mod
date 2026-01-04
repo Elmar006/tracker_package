@@ -1,5 +1,4 @@
-module github.com/Yandex-Practicum/42-docker-final
-
+module github.com/Elmar006/tracker-package
 go 1.22.0
 
 require (
